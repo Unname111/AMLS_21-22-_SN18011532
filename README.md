@@ -1,7 +1,6 @@
 1. Project Title: Applied Machine Learning Systems Coursework
 
 2. Introduction of the tasks
-
 This coursework contains two tasks. The first task requires a binary classification of the MRI images with or without a tumour. The second task asks for a multiclassification, meaning different types of tumours need to be distinguished for the given image data.
 
 3. Description of the organization of the files
