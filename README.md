@@ -8,7 +8,9 @@ This coursework contains two tasks. The first task requires a binary classificat
 
 The final versions of the code are listed in the main repository. Please use these two to run.
 
-The folder ‘PastVersion’ stores any code generated during the writing. Some code can be run without a problem, but some are just pieces of classes and modules. This is only for the record and evidence of the progress.
+The folder ‘DataRrecord’ contains any data generated during the experiments. This is merely the raw data. The processed data is presented in the report.
+
+For GitHub: The folder ‘PastVersion’ stores any code generated during the writing. Some code can be run without a problem, but some are just pieces of classes and modules. This is only for the record and evidence of the progress.
 
 **4. How to run the code
 
@@ -23,6 +25,10 @@ Original labels   ./dataset/label.csv
 Additional images  ./new_dataset/test/image
 
 Additional labels   ./new_dataset/test/label.csv
+
+For Google Driver: the dataset is contained.
+
+For GitHub, the whole data set cannot be uploaded due to the limitations of maximum upload files. Please use the dataset direcyly from Moodle.
 
 Note: for python 3.10 there might be some problems installing the libraries. If it does happen, use Python 3.9 or try another IDE. 
 
