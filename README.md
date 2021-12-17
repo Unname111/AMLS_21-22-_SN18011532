@@ -1,4 +1,4 @@
-**1. Project Title: Applied Machine Learning Systems Coursework
+#1. Project Title: Applied Machine Learning Systems Coursework#
 
 **2. Introduction of the tasks
 
