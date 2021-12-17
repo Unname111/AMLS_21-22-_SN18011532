@@ -1,11 +1,9 @@
 # -*- coding:utf-8 -*-
 """
-Creator: Xuanchang Zhang
 Date: 12/12/2021
 """
 # -*- coding:utf-8 -*-
 """
-Creator: Xuanchang Zhang
 Date: 05/12/2021
 """
 
