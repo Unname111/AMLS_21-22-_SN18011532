@@ -1,10 +1,11 @@
-1. Project Title: Applied Machine Learning Systems Coursework//
+1. Project Title: Applied Machine Learning Systems Coursework
 
 2. Introduction of the tasks
+
 This coursework contains two tasks. The first task requires a binary classification of the MRI images with or without a tumour. The second task asks for a multiclassification, meaning different types of tumours need to be distinguished for the given image data.
 
 3. Description of the organization of the files
-The final versions of the code are listed in the main repository. Please use these two to run.//
+The final versions of the code are listed in the main repository. Please use these two to run.
 The folder ‘PastVersion’ stores any code generated during the writing. Some code can be run without a problem, but some are just pieces of classes and modules. This is only for the record and evidence of the progress.
 
 4. How to run the code
