@@ -8,7 +8,7 @@ This coursework contains two tasks. The first task requires a binary classificat
 
 The final versions of the code are listed in the main repository. Please use these two to run.
 
-The folder ‘DataRrecord’ contains any data generated during the experiments. This is merely the raw data. The processed data is presented in the report.
+The folder ‘DataRecord’ contains any data generated during the experiments. This is merely the raw data. The processed data is presented in the report.
 
 For GitHub: The folder ‘PastVersion’ stores any code generated during the writing. Some code can be run without a problem, but some are just pieces of classes and modules. This is only for the record and evidence of the progress.
 
