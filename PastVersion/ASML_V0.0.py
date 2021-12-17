@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 """
 This is the first trial for the coursework. 
-Creator: Xuanchang Zhang
 Date: 21/11/2021
 """
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
