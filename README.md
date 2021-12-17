@@ -1,83 +1,59 @@
-#1. Project Title: Applied Machine Learning Systems Coursework
+#  Applied Machine Learning Systems Coursework_18011532
 
-**2. Introduction of the tasks
+## 1. Introduction of the tasks
 
-This coursework contains two tasks. The first task requires a binary classification of the MRI images with or without a tumour. The second task asks for a multiclassification, meaning different types of tumours need to be distinguished for the given image data.
+- The programmes are written in Python, developed using PyCharm.
+- Task 1 requires requires a binary classification of the MRI images with or without a tumour. – Task2 asks for a multiclassification, meaning different types of tumours need to be distinguished for the given image data.
+- Task 1 builds the decision tree to solve the problem, and Task 2 builds the CNN model.
 
-**3. Description of the organization of the files
 
-The final versions of the code are listed in the main repository. Please use these two to run.
 
-The folder ‘DataRecord’ contains any data generated during the experiments. This is merely the raw data. The processed data is presented in the report.
+## 2. Description of the organization of the files
 
-The folder ‘PastVersion’ stores any code generated during the writing. Some code can be run without a problem, but some are just pieces of classes and modules. This is only for the record and evidence of the progress.
+### ``Task_1_Final.py``
 
-**4. How to run the code
+This is the final version of the code for Task 1.
+
+### ``Task_2_Final.py``
+
+This is the final version of the code for Task 2.
+
+###  `dataset` and `new_dataset/test` 
+
+`dataset` contains the training data of 3000 MRI brain images and their corresponding labels. `new_dataset/test` contains the tesing data of 200 MRI brain images and their corresponding labels.
+
+### `DataRecord`
+
+The folder `DataRecord` contains any data generated during the experiments. This is merely the raw data. The processed data is presented in the report.
+
+### `PastVersion`
+
+The folder `PastVersion` stores any code generated during the writing. Some code can be run without a problem, but some are just pieces of classes and modules. This is only for the record and evidence of the progress.
+
+## 3. How to run the code
 
 The code is programmed in Python 3.9 but should be working in most popular used versions. The code is written in PyCharm, and all the files are named using .py format. Any suitable IDE can open and run the code.
 
+1. Download the whole repository.
+2. Installe all the necessary Python packages/modules.
+3. Choose `Task1_Final` or `Task2_Final` to run the code for Task 1 or Task 2.
+4. You can uncommon some blocks in the code to achieve more functions (e.g., plotting graphs and exporting a randome image with predicted label)
 Path of dataset
-
-Original images  ./dataset/image
-
-Original labels   ./dataset/label.csv
-
-Additional images  ./new_dataset/test/image
-
-Additional labels   ./new_dataset/test/label.csv
-
-For Google Driver: the dataset is contained.
-
-For GitHub, the whole data set cannot be uploaded due to the limitations of maximum upload files. Please use the dataset direcyly from Moodle.
 
 Note: for python 3.10 there might be some problems installing the libraries. If it does happen, use Python 3.9 or try another IDE. 
 
-**5. Necessary packages
+## 4. Necessary packages
 
-For Task 1
-
-torch.utils.data
-
-PIL.Image
-
-os
-
-pandas
-
-matplotlib.pyplot
-
-numpy
-
-sklearn.decomposition
-
-sklearn.model_selection
-
-sklearn.tree
-
-sklearn.model_selection
-
-For Task 2
-
-os
-
-matplotlib.pyplot
-
-numpy
-
-pandas
-
-torch
-
-torch.nn.functional
-
-torch.nn
-
-PIL.Image
-
-torch.utils.data
-
-torchvision
-
-math
-
+| Command | Description |
+| --- | --- |
+| torch | 1.10.0 |
+| Pillow | 8.4.0 |
+|pandas      |                 1.3.4|
+|matplotlib      |             3.5.0|
+|numpy   |                     1.21.4|
+|sklearn        |              0.0|
+|torch             |           1.10.0|
+|torchvision      |            0.11.1|
+|math||
+|os |  |
 
