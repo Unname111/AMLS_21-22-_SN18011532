@@ -44,7 +44,7 @@ Note: for python 3.10 there might be some problems installing the libraries. If 
 
 ## 4. Necessary packages
 
-| Command | Description |
+| Library | Version |
 | --- | --- |
 | torch | 1.10.0 |
 | Pillow | 8.4.0 |
